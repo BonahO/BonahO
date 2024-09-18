@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BonahO
 - 👀 I’m interested in reading. 
-- 🌱 I’m currently learning petroleum engineering at school but studying python on my own.
-- 💞️ I’m looking to collaborate on projects to improve my knowledge.
+- 🌱 Machine learning enthusiat 
+- 💞️ I’m looking to collaborate on projects relating to oil and gas and machine learning
 - 📫 How to reach me bonahokyerefrank@gmail.com
 
 <!---
